@@ -1,0 +1,28 @@
+{
+  "name": "music-agent",
+  "version": "1.0.0",
+  "description": "Make music with AI agents. No DAW needed.",
+  "scripts": {
+    "render": "node render.mjs"
+  },
+  "keywords": [
+    "music",
+    "ai",
+    "agent",
+    "web-audio",
+    "synthesis",
+    "wav",
+    "claude",
+    "codex"
+  ],
+  "author": "Sugi <sentientstudioofficial@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-web-audio-api": "^1.0.8"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernsugi/music-agent.git"
+  }
+}
